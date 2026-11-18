@@ -7,6 +7,7 @@
 </a>
 
 <p>
+  <a href="https://jhonathan-martins.wsstudio.site/"><img src="https://img.shields.io/badge/Meu_site-5aa2ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
   <a href="https://www.linkedin.com/in/jhonathan-martins-5b1237143/"><img src="https://img.shields.io/badge/LinkedIn-0b0b14?style=for-the-badge&logo=linkedin&logoColor=5aa2ff" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/jhonathan.martiins/"><img src="https://img.shields.io/badge/Instagram-0b0b14?style=for-the-badge&logo=instagram&logoColor=8b6cff" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=jhonathanms&style=for-the-badge&color=5aa2ff&label=VISITAS" alt="Visitas" />
@@ -23,6 +24,7 @@ Trabalho com **engenharia orientada a especificação**: requisitos e contratos 
 jhonathan:
   agora:      "Engenheiro de software na Alterdata · 7+ anos"
   fundador:   ["Antech Software", "Stocka"]
+  site:       "https://jhonathan-martins.wsstudio.site/"
   local:      "Itabuna, Bahia · Brasil · remoto"
   metodo:     [Spec-Driven Development, DDD, Event-driven, ADR]
   estudando:  [LLMs, RAG, agentes com MCP, evals e guardrails]
@@ -148,6 +150,7 @@ jhonathan:
 
 **Bora construir algo juntos?** 👇
 
+<a href="https://jhonathan-martins.wsstudio.site/"><img src="https://img.shields.io/badge/Conhe%C3%A7a_meu_site-8b6cff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jhonathan-martins-5b1237143/"><img src="https://img.shields.io/badge/Fale_comigo_no_LinkedIn-5aa2ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b0b14,45:8b6cff,100:5aa2ff&section=footer" width="100%" />
